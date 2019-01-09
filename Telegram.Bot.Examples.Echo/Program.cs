@@ -12,7 +12,7 @@ namespace Telegram.Bot.Examples.Echo
 {
     public static class Program
     {
-        private static readonly TelegramBotClient Bot = new TelegramBotClient("606128864:AAFQMUbu8T3Ooi2ub4dfejLjXk5VbKoa7EU");
+        private static readonly TelegramBotClient Bot = new TelegramBotClient("721715318:AAEObJ8Iop2sC_0njuDx7SBwTN9NyccDfPk");
 
         public static void Main(string[] args)
         {
